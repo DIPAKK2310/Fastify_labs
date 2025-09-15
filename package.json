@@ -1,0 +1,21 @@
+{
+  "name": "fastify_labs",
+  "version": "1.0.0",
+  "description": "This a experiment with fastify web framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node server.js"
+  },
+  "type": "module",
+  "keywords": [
+    "fastify",
+    "backend_fastify",
+    "fastify_backend"
+  ],
+  "author": "Dipak Khare",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^5.6.0"
+  }
+}
