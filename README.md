@@ -7,6 +7,7 @@
  - MongoDB
 ## Folder Structure
  -  packege.json
+ - .env                       #Environt Variable
  -  route.js             #Routes 
  -  server.js
  - README.md
